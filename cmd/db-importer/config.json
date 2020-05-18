@@ -1,0 +1,15 @@
+{
+    "database": {
+        "mongo_db": {
+            "database_url": "mongodb://dbAdmin:tUrb0DBpA55w0rD@localhost:6969/admin?authSource=admin",
+            "database_name": "turboBpo-staging"
+        },
+        "postgres": {
+            "username": "dapp",
+            "password": "BpLwty3Z",
+            "host": "localhost",
+            "db_name": "test",
+            "port": 5432
+        }
+    }
+}
