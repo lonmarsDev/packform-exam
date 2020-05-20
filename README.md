@@ -27,7 +27,7 @@ git clone git@github.com:lonmarsDev/packform-exam.git
 cd packform-exam/db-importer
 go run *.go
 ```
-All csv file are located to packform-exam/db-importer/test_data
+All csv file are located to packform-exam/cmd/db-importer/test_data
 
 How to run api services
 ```bash
