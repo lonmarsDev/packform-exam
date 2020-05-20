@@ -15,8 +15,8 @@ git clone git@github.com:lonmarsDev/packform-exam.git
 
 How To change database config file
 config files are located on 
-db importer - packform-exam/db-importer/config.json
-service API- packform-exam/service-api/config.json
+db importer - packform-exam/cmd/db-importer/config.json
+service API- packform-exam/cmd/service-api/config.json
 
 
 ## Usage
